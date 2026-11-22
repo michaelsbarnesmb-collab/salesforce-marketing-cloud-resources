@@ -158,7 +158,8 @@ Listed by event date, most recent first.
 * [gortonington](https://gortonington.com/) by Gregory Gortonington.
 * [Salesforce Marketing Cloud & Marketing Automation](https://www.cameronrobert.com.au/) by Cameron Robert.
 * [sfmarketing.cloud](https://sfmarketing.cloud/) by Zuzanna Jarczynska
-
+* https://www.salesforce.com/marketing/agentic-marketing/
+  
 ## Contribute
 
 Thank you to all the AWESOME marketing cloud people who have shared with the community. **Do you have a link that you would like the community to know about?** Feel very welcome to share a suggestion here or to marketing-cloud-devs@trailblazercgl.com
